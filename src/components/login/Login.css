@@ -1,0 +1,48 @@
+html,body{
+    background-image: url('https://www.bbva.com/wp-content/uploads/2015/01/bitcoin_2-1920x1200.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    }
+
+#root{
+    height: 100%;
+}
+
+.App{
+    height: 100%; 
+}
+
+.section{
+    height: 100%; 
+}
+
+.container{
+    height: 100%;
+    align-content: center;
+}
+
+.card{    
+    margin-top:auto ;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    color:white;
+}
+
+.card-header {
+    background-color: rgba(0,0,0,0.5) !important;
+    width: 400px;    
+    color:white;
+}
+
+.card-footer {
+    background-color: rgba(0,0,0,0.5) !important;
+    width: 400px;
+    height: 370px;
+    color:white;
+}
+
+#registro{
+    color:white; 
+}
